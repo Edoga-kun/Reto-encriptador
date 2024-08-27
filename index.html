@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="img/encrypted.png" type="image/png">
+    <title>Encriptador de Texto</title>
+    <link id="theme-style" rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main class="main">
+        <div class="content">
+            <section class="left">
+                <div class="input-text">
+                    <textarea class="textarea-input" id="inputMessage" placeholder="Ingresa el texto que quieras encriptar o desencriptar"></textarea>
+                </div>
+                <div class="instructions-and-bottons">
+                    <p class="instructions">
+                        <p id="error-message" class="error-message">Solo se admiten letras minúsculas y sin caracteres especiales.</p>
+                    </p>
+                    <div class="buttons">
+                        <button class="encryptBtn" id="encryptBtn">Encriptar</button>
+                        <button class="decryptBtn" id="decryptBtn">Desencriptar</button>
+                    </div>
+                </div>
+            </section>
+            <section class="right">
+                <textarea class="message-box" id="outputMessage" placeholder="Ningún mensaje fue encontrado" readonly></textarea>
+                <button class="copy" id="copyBtn">Copiar</button>
+            </section>
+        </div>
+    </main>
+    <script src="script.js"></script>
+    <footer>
+        <div class="footer">
+            <p>2024 © Hecho por Edgar Figueredo - Proyecto propuesto por 
+                <a href="https://www.oracle.com/" target="_blank" rel="noopener noreferrer">Oracle</a> y 
+                <a href="https://www.alura.com.br/" target="_blank" rel="noopener noreferrer">Alura</a>
+            </p>
+        </div>
+    </footer>
+</body>
+</html>
