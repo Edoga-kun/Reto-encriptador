@@ -1,17 +1,16 @@
-🚀 ¡Hola comunidad! 🚀
+🚀 Hello community! 🚀
 
-Quiero compartir con ustedes un nuevo proyecto en el que he estado trabajando como parte del #ChallengeProgramación de #AluraLatam en colaboración con #Oracle.
+I want to share with you a new project I’ve been working on as part of the #ChallengeProgramming by #AluraLatam in collaboration with #Oracle.
 
-He creado un Encriptador de Texto utilizando tecnologías web como HTML, CSS y JavaScript. 💻🔐 Este proyecto me ha permitido profundizar en el desarrollo frontend y la lógica de encriptación de datos, todo desde el lado del cliente.
+I’ve created a Text Encryptor using web technologies like HTML, CSS, and JavaScript. 💻🔐 This project has allowed me to dive deeper into frontend development and data encryption logic, all from the client side.
 
-🔑 Características principales:
+🔑 Key Features:
 
-Cifrado y Descifrado de Texto: Protege tus mensajes con un algoritmo de encriptación simple pero efectivo.
-Diseño intuitivo: La interfaz ha sido diseñada para ser fácil de usar, limpia y funcional.
-100% JavaScript: La lógica se ejecuta en el navegador, sin depender de servidores externos.
-💡 ¡Este proyecto ha sido un reto emocionante y gratificante! Si estás interesado en aprender más o colaborar, te invito a revisar el repositorio en GitHub.
+Text Encryption and Decryption: Protect your messages with a simple yet effective encryption algorithm.
+Intuitive Design: The interface is designed to be user-friendly, clean, and functional.
+100% JavaScript: The logic runs in the browser, without relying on external servers.
+💡 This project has been an exciting and rewarding challenge! If you’re interested in learning more or collaborating, I invite you to check out the repository on GitHub.
 
+I thank #AluraLatam and #Oracle for this opportunity for learning and growth. 🚀✨
 
-Agradezco a #AluraLatam y #Oracle por esta oportunidad de aprendizaje y crecimiento. 🚀✨
-
-#DesarrolloWeb #JavaScript #HTML #CSS #Programación #Seguridad #Cifrado #GitHub
+#WebDevelopment #JavaScript #HTML #CSS #Programming #Security #Encryption #GitHub
